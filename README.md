@@ -6,7 +6,9 @@ I'm a business owner and full-time full-stack multi-disciplined software enginee
 
 I also build machine learning models for off-the-wall tasks, produce (not so great) electronic music, and involve myself with creating cryptocurrency trading bots.
 
-I love car tech :racing_car:, music tech :headphones:, video games :video_game:, and athletic tech :athletic_shoe:. Basically, anything tech. I'm also partial to the mountains :mountain_snow:, and coffee :coffee:. Lots of :coffee:...
+I love car tech :racing_car:, music tech :headphones:, video games :video_game:, and athletic tech :athletic_shoe:. Basically, anything tech :technologist:. I'm also partial to the mountains :mountain_snow:, and coffee :coffee:.
+
+Lots and lots of :coffee:...
 
 Please reach out to me if you want to chat or if you'd like to collaborate on a project.
 
