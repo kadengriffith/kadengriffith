@@ -26,7 +26,7 @@ Checkout the projects that I manage for the [Bytewave](https://bytewave.com/) co
 
 #### Websites
 
-[<img src="./assets/img/globe-solid.svg" alt="My website" height="32" />](https://kadengriffith.com)
+[https://kadengriffith.com](https://kadengriffith.com)
 
 #### Social Media
 
@@ -50,8 +50,6 @@ Cryptocurrency
 - MATIC ERC20 (0xe44c6c121665be7d4d7b4ffca94c40b662ba4a5b)
 </details>
 
-<br/>
-
 Cash.app
 
-[<img src="./assets/img/$kadengriffith.png" alt="My Cash.app" height="100" />](https://cash.app/$kadengriffith)
+[<img src="./assets/img/$kadengriffith.png" alt="My Cash.app" height="125" />](https://cash.app/$kadengriffith)
