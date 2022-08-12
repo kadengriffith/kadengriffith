@@ -16,11 +16,11 @@ Please reach out to me if you want to chat or if you'd like to collaborate on a 
 
 [<img src="./assets/img/bytewave-text.png" alt="Bytewave" height="32" />](https://bytewave.co)
 
-Checkout the projects that I manage for the [Bytewave](https://bytewave.com/) company.
+Checkout the projects that I manage for the [Bytewave](https://bytewave.co/) company.
 
 ## My Main Tech
 
-<img src="./assets/img/linux-brands.svg" alt="Linux" height="32" /> <img src="./assets/img/apple-brands.svg" alt="Mac" height="32" /> <img src="./assets/img/windows-brands.svg" alt="Windows" height="32" /> <img src="./assets/img/raspberry-pi-brands.svg" alt="Windows" height="32" /> <img src="./assets/img/html5-brands.svg" alt="HTML" height="32" /> <img src="./assets/img/css3-brands.svg" alt="CSS" height="32" /> <img src="./assets/img/sass-brands.svg" alt="CSS" height="32" /> <img src="./assets/img/js-brands.svg" alt="TypeScript / JavaScript" height="32" /> <img src="./assets/img/vuejs-brands.svg" alt="Vue.js" height="32" /> <img src="./assets/img/angular-brands.svg" alt="Angular" height="32" /> <img src="./assets/img/react-brands.svg" alt="React" height="32" /> <img src="./assets/img/node-js-brands.svg" alt="TypeScript / JavaScript" height="32" /> <img src="./assets/img/python-brands.svg" alt="Python" height="32" />
+<img src="./assets/img/linux-brands.svg" alt="Linux" height="32" /> <img src="./assets/img/apple-brands.svg" alt="Mac" height="32" style="user-select:none;" /> <img src="./assets/img/windows-brands.svg" alt="Windows" height="32" /> <img src="./assets/img/raspberry-pi-brands.svg" alt="Windows" height="32" /> <img src="./assets/img/html5-brands.svg" alt="HTML" height="32" /> <img src="./assets/img/css3-brands.svg" alt="CSS" height="32" /> <img src="./assets/img/sass-brands.svg" alt="CSS" height="32" /> <img src="./assets/img/js-brands.svg" alt="TypeScript / JavaScript" height="32" /> <img src="./assets/img/vuejs-brands.svg" alt="Vue.js" height="32" /> <img src="./assets/img/angular-brands.svg" alt="Angular" height="32" /> <img src="./assets/img/react-brands.svg" alt="React" height="32" /> <img src="./assets/img/node-js-brands.svg" alt="TypeScript / JavaScript" height="32" /> <img src="./assets/img/python-brands.svg" alt="Python" height="32" />
 
 ## Find Me On The Internet
 
