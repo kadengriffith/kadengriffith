@@ -14,7 +14,7 @@ Please reach out to me if you want to chat or if you'd like to collaborate on a 
 
 ## My Business
 
-[<img src="./assets/img/bytewave-text.png" alt="Bytewave" height="32" />](https://bytewave.co)
+[<img src="./assets/img/bytewave.svg" alt="Bytewave" height="32" />](https://bytewave.co)
 
 Checkout the projects that I manage for the [Bytewave](https://bytewave.co/) company.
 
@@ -27,6 +27,8 @@ Checkout the projects that I manage for the [Bytewave](https://bytewave.co/) com
 #### Websites
 
 [https://kadengriffith.com](https://kadengriffith.com)
+
+[https://bytewave.co](https://bytewave.co)
 
 #### Social Media
 
